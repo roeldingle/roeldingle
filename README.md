@@ -25,7 +25,7 @@ Results-oriented **Web Technology Leader & Senior DevOps/Automation Engineer** w
 - **Delivery & Quality**: Enforced strict SLAs and KPIs, facilitated stakeholder alignment, and led continuous process improvement initiatives.
 - **People Development**: Coached team leaders, created career roadmaps, and established technical skill development tracks.
 
-#### 🤖 Senior Automation Test Engineer
+#### 🤖 Senior Automation Tester
 - **Test Automation Frameworks**: Built and maintained automated test suites converting complex manual scenarios using Katalon Studio, Selenium Java, and Python.
 - **Environment Management**: Executed and deployed test automation across FIT, Release, and Production environments.
 - **CI/CD Integration**: Engineered continuous testing within delivery pipelines using Jenkins, GitLab CI, and GitHub Actions.
