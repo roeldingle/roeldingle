@@ -9,7 +9,7 @@
 
 </div>
 
-### Operations Manager | Web Technology Leader | Web Security Analyst | Automation Engineer
+### Operations Manager | Web Technology Leader | Full Stack Developer | Web Security Analyst | Senior Automation Tester
 
 > *"I build, automate, secure, and improve software."*
 
