@@ -3,8 +3,11 @@
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roeldingle/)
+
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/roeldingle)
+
 [![Email](https://img.shields.io/badge/Email-roeldingle%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roeldingle@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-roeldingle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roeldingle)
 
 </div>
