@@ -17,37 +17,6 @@ Results-oriented **Web Technology Leader & Senior DevOps/Automation Engineer** w
 
 ---
 
-### 💼 Roles & Core Responsibilities
-
-#### 👥 Operations Manager & Engineering Leader
-- **Team Leadership & Scale**: Supervised engineering accounts with 25+ headcount across creative technology, software solutions, and analytics.
-- **Framework & Governance**: Implemented EOS® (Leadership, Management & Accountability, Right People Right Seat) to optimize team structure and performance.
-- **Delivery & Quality**: Enforced strict SLAs and KPIs, facilitated stakeholder alignment, and led continuous process improvement initiatives.
-- **People Development**: Coached team leaders, created career roadmaps, and established technical skill development tracks.
-
-#### 🤖 Senior Automation Tester
-- **Test Automation Frameworks**: Built and maintained automated test suites converting complex manual scenarios using Katalon Studio, Selenium Java, and Python.
-- **Environment Management**: Executed and deployed test automation across FIT, Release, and Production environments.
-- **CI/CD Integration**: Engineered continuous testing within delivery pipelines using Jenkins, GitLab CI, and GitHub Actions.
-- **Quality Assurance & RCA**: Performed daily Root Cause Analysis, documented system defects in Jira, and ensured rapid resolution.
-
-#### 🛡️ Web Security Analyst
-- **Application Hardening**: Guarded enterprise web applications, APIs, and cloud infrastructure against data breaches, XSS, and injection flaws.
-- **Security Testing**: Conducted vulnerability assessments and penetration testing to identify and patch system flaws proactively.
-- **Compliance & Standards**: Ensured architectural compliance with modern web application security benchmarks and OWASP principles.
-
-#### 💻 Senior Web Developer & Full-Stack Engineer
-- **Application Development**: Planned, developed, and maintained web solutions and RESTful APIs using ASP.NET MVC, C#, PHP, JavaScript, TypeScript, and SQL.
-- **Accessibility & UX**: Engineered responsive web interfaces with modern HTML5/CSS3 while ensuring accessibility and web performance standards.
-- **Architecture & Extensibility**: Developed modular CMS extensions, web apps, and third-party API integrations.
-
-#### ⚡ Marketing Automation & CRM Developer
-- **Customer Journey Workflows**: Architected automated triggers, subscriber journeys, and data pipelines in Salesforce Marketing Cloud.
-- **Scripting & Logic**: Programmed customized data workflows using AMPscript, Server-Side JavaScript (SSJS), and SQL.
-- **CMS Solutions**: Developed high-converting, mobile-responsive landing pages and content systems across enterprise CMS platforms.
-
----
-
 ### 🛠️ Technical Arsenal
 
 - **Languages**: JavaScript, TypeScript, Python, Java, C#, PHP, SQL, HTML5, CSS3, AMPscript, SSJS
